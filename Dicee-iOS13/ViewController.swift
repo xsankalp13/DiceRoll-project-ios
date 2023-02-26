@@ -43,7 +43,7 @@ class ViewController: UIViewController {
         // diceArray.randomElement will pick any random elecment form the array
         diceimageViewOne.image=diceArray.randomElement()
         diceimageViewTwo.image=diceArray.randomElement()
-
+        var = 1
         
     }
     
